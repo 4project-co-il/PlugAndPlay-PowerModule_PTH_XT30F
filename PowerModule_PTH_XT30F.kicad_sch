@@ -1436,7 +1436,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x05"
+		(property "Value" "MaleHeader_01x05"
 			(at 134.112 81.534 0)
 			(effects
 				(font
@@ -1445,7 +1445,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Library:PinSocket_1x05_P2.54mm_Vertical_SMD_Pin1Left"
+		(property "Footprint" "PnP_Library:PinSocket_1x05_P2.54mm_Vertical_SMD_Pin1Left"
 			(at 140.97 90.17 0)
 			(effects
 				(font
@@ -1665,7 +1665,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05"
+		(property "Value" "MaleHeader_01x05"
 			(at 119.38 81.28 0)
 			(effects
 				(font
@@ -1673,7 +1673,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:PinSocket_1x05_P2.54mm_Vertical_SMD_Pin1Right"
+		(property "Footprint" "PnP_Library:PinSocket_1x05_P2.54mm_Vertical_SMD_Pin1Right"
 			(at 119.38 90.17 0)
 			(effects
 				(font
